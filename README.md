@@ -1,6 +1,6 @@
 # 📄 PDF & Image Tools
 
-A powerful and user-friendly web application built with **Flask** that allows you to manipulate PDF and image files seamlessly — inspired by the simplicity and aesthetics of iLovePDF.
+A powerful and user-friendly web application built with **Flask** that allows you to manipulate PDF and image files seamlessly, inspired by the simplicity and aesthetics of iLovePDF.
 
 ---
 
@@ -121,6 +121,7 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 
 **Aziz Ahmad**  
 🌐 [GitHub Profile](https://github.com/azizahmad7751)  
-📧 azizahmad7751@gmail.com
+📧 engr.azizahmad7751@gmail.com
+🔗 [linkden Profile](https://www.linkedin.com/in/theazizahmad/)  
 
 > Built with ❤️ using Flask, Bootstrap, and a passion for clean tools.
