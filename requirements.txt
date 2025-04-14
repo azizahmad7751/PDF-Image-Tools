@@ -3,3 +3,4 @@ Werkzeug==2.3.6
 Pillow
 PyMuPDF
 PyPDF2
+gunicorn
