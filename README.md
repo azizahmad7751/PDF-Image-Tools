@@ -1,6 +1,7 @@
 # 📄 PDF & Image Tools
 
-A powerful and user-friendly web application built with **Flask** that allows you to manipulate PDF and image files seamlessly, inspired by the simplicity and aesthetics of iLovePDF.
+A powerful and user-friendly web application built with **Flask** that allows you to manipulate PDF and image files seamlessly.
+
 
 ---
 
