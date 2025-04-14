@@ -77,9 +77,9 @@ A powerful and user-friendly web application built with **Flask** that allows yo
 
 Here is what the interface looks like:
 
-![Interface 1](sample-picture/front.JPG)
-![Interface 2](sample-picture/2.JPG)
-![Interface 3](sample-picture/3.JPG)
+![Interface 1](sample picture/front.JPG)
+![Interface 2](sample picture/2.JPG)
+![Interface 3](sample picture/3.JPG)
 
 
 
